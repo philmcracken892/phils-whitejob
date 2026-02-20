@@ -139,7 +139,7 @@ SetHttpHandler(function(req, res)
                 </head>
                 <body>
                     <div class="container">
-                        <div class="icon">✅</div>
+                        <h1>JOB</h1>
                         <h1>Application Approved!</h1>
                         <p>The job application has been successfully approved.</p>
                         <p>The player will receive their new job when they log in (or immediately if online).</p>
